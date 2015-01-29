@@ -78,3 +78,4 @@ A special thanks goes out to JetBrains for providing the [Open Source license](h
 
 This software is licensed under the [AFFERO GENERAL PUBLIC LICENSE](http://www.gnu.org/licenses/agpl-3.0.html)
 . 
+# stonefreedomsponsors
